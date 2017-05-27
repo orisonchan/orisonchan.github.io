@@ -85,7 +85,7 @@ body {
 .who-are-authors {
 	/*text-align: center;*/
 	padding: 2rem 6rem;
-    max-width: 64rem;
+    max-width: 74rem;
     margin: 0 auto;
 	box-sizing:border-box;
 }
@@ -474,4 +474,10 @@ ul.main-menu li:hover {
 .box-icon a i {
     margin-left: -6px;
     top: -1px;
+}
+.mycontainer {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
 }
