@@ -147,7 +147,7 @@ body {
 }
 
 .section-description {
-	color: #555c71;
+	color: #819198;
 	font-size: 19px;
 	font-weight: 400;
 	border-left: 0.3rem solid #dce6f0;
@@ -477,8 +477,8 @@ ul.main-menu li:hover {
     top: -1px;
 }
 .mycontainer {
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-right: 5px;
+    padding-left: 10px;
     margin-right: auto;
     margin-left: auto;
 }
