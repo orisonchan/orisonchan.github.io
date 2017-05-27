@@ -150,6 +150,7 @@ body {
 	color: #555c71;
 	font-size: 19px;
 	font-weight: 400;
+	border-left: 0.3rem solid #dce6f0;
 }
 
 .footer {
